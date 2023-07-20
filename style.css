@@ -1,0 +1,87 @@
+
+        #mainDiv{
+            height: 380px;
+            width: 300px;
+            border: 2px solid black;
+            border-radius: 7px;
+            background-color: antiquewhite;
+
+        }
+        #monitor{
+            
+            height: 60px;
+            width: 290px;
+            border: 2px solid rgb(7, 65, 33);
+            border-radius: 7px;
+            margin: 4px;
+            margin-bottom: 15px;
+            background-color: white;
+            text-align: right;
+            font-size: 25px;
+            font-weight: bold;
+        }
+        #clear{
+            font-size: 40px;
+        }
+        #delete{
+            font-size: 40px;
+            margin-left: 15px;
+        }
+        .div1{
+            margin-bottom: 15px;
+        }
+        .div2{
+            margin-bottom: 8px;
+        }
+        .div3{
+            margin-bottom: 8px;
+        }
+        .div4{
+            margin-bottom: 8px;
+        }
+        .div5{
+            margin-bottom: 8px;
+        }
+
+        #btnNumber{
+            font-size: 30px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        .btnDivision{
+            font-size: 30px;
+            padding-left: 20px;
+            padding-right: 20px;
+
+        }
+        .btnProduct{
+            font-size: 30px;
+            padding-left: 17px;
+            padding-right: 17px;
+        }
+        .btnDifferent{
+            font-size: 30px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        .btnAddition{
+            font-size: 30px;
+            padding-left: 17px;
+            padding-right: 17px;
+        }
+        .btnSolution{
+            font-size: 30px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        #decimal{
+            font-size: 30px;
+            padding-left: 22px;
+            padding-right: 22px;
+        }
+        .footer{
+           font-size: 20px;
+           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+       
+    
